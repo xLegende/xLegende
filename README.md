@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xLegende
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning
 
 <!---
 xLegende/xLegende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
