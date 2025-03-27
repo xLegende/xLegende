@@ -29,7 +29,6 @@
      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab" width="40" height="40"/>
   </a>  
 
-  <!-- Add more icons here -->
 
 </p>
 
@@ -38,6 +37,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xLegende&show_icons=true&theme=tokyonight" /></br></br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLegende&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xLegende&show_icons=true&theme=tokyonight" alt="xLegende's GitHub Stats" />
+    
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLegende&layout=compact&theme=tokyonight" alt="xLegende's Top Languages" />
 </p>
